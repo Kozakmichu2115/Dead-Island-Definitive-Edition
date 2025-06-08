@@ -22,7 +22,7 @@ Witaj w **Dead Island Definitive Edition Online** — grze udostępnionej z moje
 
 ## 📥 Pobierz grę
 
-[Pobierz Dead Island Definitive Edition](./moja-gra.zip)  
+[Pobierz Dead Island Definitive Edition](Dead Island Definitive Edition GameHub.rar)  
 
 *Kliknij, aby pobrać plik z grą.*
 
